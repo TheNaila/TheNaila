@@ -1,3 +1,8 @@
+<p align="left">
+  <img src="banner.png" width="100%" />
+</p>
+
+
 ## Hi There, I'm Naila! 👋
 
 I don’t see code as syntax. I see it as structure. As tradeoffs. As decisions that compound over time.
