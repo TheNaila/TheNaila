@@ -35,12 +35,7 @@ I care about building software that is:
 ![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-0A0A0A?style=for-the-badge)
 
 
-
-
-
-
-
-
+<br>
 
 If you’re interested in how I think,
 the code is the conversation.
